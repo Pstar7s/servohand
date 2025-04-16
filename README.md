@@ -98,6 +98,3 @@ Proyek ini dilisensikan di bawah **MIT License** - lihat file [LICENSE](LICENSE)
 
 ---
 
-Dengan `README.md` ini, siapapun yang melihat proyek kamu bisa dengan mudah memahami cara setup dan penggunaan aplikasi. Jangan lupa tambahkan juga file `requirements.txt` untuk mendefinisikan dependensi yang digunakan (misalnya, `Flask`, `mediapipe`, dan `opencv-python`).
-
-Jika kamu butuh bantuan lebih lanjut atau ada yang perlu diubah, tinggal kasih tahu aja bro! 😎
