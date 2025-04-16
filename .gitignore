@@ -1,0 +1,38 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Flask
+instance/
+.webassets-cache
+
+# IDEs (Contoh untuk VSCode dan PyCharm)
+.vscode/
+.idea/
+
+# Pytest
+.pytest_cache/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Log files
+*.log
+
+# Miscellaneous
+*.swp
+
